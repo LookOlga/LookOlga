@@ -1,5 +1,5 @@
 # Lukina Olga
-### Hi there! 👋 I am a frontend developer with experience more than 1 year. My stack: HTML, CSS, JavaScript, Vue.
+### Hi there! 👋 I am a frontend developer with experience more than 2 year. My stack: HTML, CSS, JavaScript, Vue.
 
 
 
