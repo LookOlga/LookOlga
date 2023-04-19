@@ -7,7 +7,7 @@
 
 ⚐ Based in Moscow
 
-ϟ Currently Currently I am working on a platform for  junior frontend developers.
+ϟ Currently I am working on a platform for  junior frontend developers.
 
 
 
