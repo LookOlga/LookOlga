@@ -5,7 +5,7 @@
 ### My stack: HTML, CSS, JavaScript, Vue, Nuxt.
  
 
-* 🌍 Based in Saint-Petersgburg
+* 🌍 Based in Saint Petersgburg
 * ✉️  You can contact me at [lookinolga@gmail.com](mailto:lookinolga@gmail.com)
 
  ## Skills
